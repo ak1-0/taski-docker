@@ -52,7 +52,7 @@ jobs:
         cd backend/
         python manage.py test
 
-
+  build_and_push_to_docker_hub:
     name: Push Docker image to DockerHub
     runs-on: ubuntu-latest
     needs: tests
