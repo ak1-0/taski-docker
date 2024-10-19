@@ -18,7 +18,7 @@
 ## Установка
 1. **Клонируйте репозиторий на свой компьютер**:
     ```bash
-    git clone https://github.com/ak1-0taski-docker.git
+    git clone https://github.com/ak1-0/taski-docker.git
     cd taski_final
     ```
 
